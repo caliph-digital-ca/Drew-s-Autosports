@@ -54,7 +54,7 @@ Holds full meta tags plus three JSON-LD blocks (Article, FAQPage, AutoBodyShop/L
 | Meta description | Condition is one of the biggest factors in trade-in and resale value. Learn how regular detailing, paint correction and protection keep your car worth more. |
 | Featured image alt | Before and after of a faded SUV hood restored by paint correction at Drew's Autosports in Kelowna |
 
-Featured image: no before/after photo exists yet; upload one and replace the placeholder URL.
+**Published to Webflow CMS on November 19, 2026** (Blogs item `6aff2bedfb6b306618d6a2cc`). No before/after photo existed, so the featured image is the existing white Porsche 911 photo, alt: "Glossy white Porsche 911 with clean, swirl-free paint parked beside autumn trees". Swap in a before/after photo (and the draft's alt text) when available.
 
 ## Blog template link styling (November 19, 2026)
-The site's global `a` style has no underline and uses #ddd, the same as body text, so links in posts looked like plain text. A `<style>` block in the Blogs Template page head now gives `.w-richtext a` the brand blue (#4a78d8) with an underline. It goes live on the next full site publish.
+The site's global `a` style has no underline and uses #ddd, the same as body text, so links in posts looked like plain text. A `<style>` block in the Blogs Template page head now gives `.w-richtext a` the brand blue (#4a78d8) with an underline. Published with a full site publish on November 19, 2026.
