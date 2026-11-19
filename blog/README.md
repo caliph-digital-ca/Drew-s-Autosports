@@ -39,4 +39,4 @@ Holds full meta tags plus four JSON-LD blocks (Article, HowTo, FAQPage, AutoBody
 | Meta description | A Kelowna detailer's step-by-step guide to washing your car at home: the two-bucket method, the right tools, drying without swirls, and local water rules. |
 | Featured image alt | Two wash buckets with grit guards and a microfiber mitt beside a black SUV in a Kelowna driveway |
 
-Featured image: upload and replace the placeholder `og:image` / `twitter:image` / `<img>` URL.
+**Published to Webflow CMS on November 19, 2026** (Blogs item `6aff2a6fd94f9a331af09b19`). No car-wash photo existed in the asset library, so the featured image is the existing black Porsche on the wet studio floor, alt: "Glossy black Porsche on a freshly washed detailing-studio floor at Drew's Autosports in Kelowna". Swap in a two-bucket photo (and the draft's alt text) when one is available.
