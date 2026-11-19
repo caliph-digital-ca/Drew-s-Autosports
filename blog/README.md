@@ -25,3 +25,18 @@ Note: the Blogs collection currently has no meta title / meta description fields
 | Featured image | Upload and replace `og:image` / `twitter:image` / `<img>` URL | Placeholder path used for now |
 | Related reading | Link "Maintaining Your Ceramic Coating" and "Spray Ceramic vs Professional Ceramic" once live | Internal linking |
 | External links | Confirm XPEL, CARFAX Canada, DriveBC, Wikipedia URLs resolve | Could not be checked from the build environment |
+
+## how-to-wash-your-car-at-home.html — publish date: November 19, 2026
+
+Holds full meta tags plus four JSON-LD blocks (Article, HowTo, FAQPage, AutoBodyShop/LocalBusiness) and the article body inside `<article>`. Client never confirmed the byline, first-hand note, shop-specific mistake or photos, so those were removed; the byline reads "the Drew's Autosports detailing team". Unpublished related posts (Maintaining Your Ceramic Coating, How Detailing Keeps Up Vehicle Value) were swapped for existing posts.
+
+### Webflow setup
+| Field | Value |
+|---|---|
+| CMS Name | How to Properly Wash Your Car at Home (Without Scratching the Paint) |
+| Slug | `how-to-wash-your-car-at-home` |
+| Meta title | How to Wash Your Car at Home Without Scratches \| Kelowna |
+| Meta description | A Kelowna detailer's step-by-step guide to washing your car at home: the two-bucket method, the right tools, drying without swirls, and local water rules. |
+| Featured image alt | Two wash buckets with grit guards and a microfiber mitt beside a black SUV in a Kelowna driveway |
+
+Featured image: upload and replace the placeholder `og:image` / `twitter:image` / `<img>` URL.
