@@ -40,3 +40,21 @@ Holds full meta tags plus four JSON-LD blocks (Article, HowTo, FAQPage, AutoBody
 | Featured image alt | Two wash buckets with grit guards and a microfiber mitt beside a black SUV in a Kelowna driveway |
 
 **Published to Webflow CMS on November 19, 2026** (Blogs item `6aff2a6fd94f9a331af09b19`). No car-wash photo existed in the asset library, so the featured image is the existing black Porsche on the wet studio floor, alt: "Glossy black Porsche on a freshly washed detailing-studio floor at Drew's Autosports in Kelowna". Swap in a two-bucket photo (and the draft's alt text) when one is available.
+
+## does-detailing-increase-car-value.html — publish date: November 20, 2026
+
+Holds full meta tags plus three JSON-LD blocks (Article, FAQPage, AutoBodyShop/LocalBusiness) and the article body inside `<article>`. Client never confirmed the following, so they were removed: author byline (now "the Drew's Autosports detailing team"), the XPEL dealership-survey stat, the Okanagan weather first-hand section and customer example, the pre-sale pricing FAQ, and photo placeholders. Related reading now links the two live posts.
+
+### Webflow setup
+| Field | Value |
+|---|---|
+| CMS Name | How Detailing Keeps Up Your Vehicle's Value (and Gets You More at Trade-In) |
+| Slug | `does-detailing-increase-car-value` |
+| Meta title | Does Detailing Increase Car Value? Kelowna Guide |
+| Meta description | Condition is one of the biggest factors in trade-in and resale value. Learn how regular detailing, paint correction and protection keep your car worth more. |
+| Featured image alt | Before and after of a faded SUV hood restored by paint correction at Drew's Autosports in Kelowna |
+
+Featured image: no before/after photo exists yet; upload one and replace the placeholder URL.
+
+## Blog template link styling (November 19, 2026)
+The site's global `a` style has no underline and uses #ddd, the same as body text, so links in posts looked like plain text. A `<style>` block in the Blogs Template page head now gives `.w-richtext a` the brand blue (#4a78d8) with an underline. It goes live on the next full site publish.
