@@ -58,3 +58,6 @@ Holds full meta tags plus three JSON-LD blocks (Article, FAQPage, AutoBodyShop/L
 
 ## Blog template link styling (November 19, 2026)
 The site's global `a` style has no underline and uses #ddd, the same as body text, so links in posts looked like plain text. A `<style>` block in the Blogs Template page head now gives `.w-richtext a` the brand blue (#4a78d8) with an underline. Published with a full site publish on November 19, 2026.
+
+## Shop address update (November 20, 2026)
+Confirmed address: Unit 19 - 2550 Acland Rd, Kelowna, BC, V1X 7L4. Updated in the CTA line and LocalBusiness schema (`postalCode`) of `how-to-wash-your-car-at-home.html` and `does-detailing-increase-car-value.html`, and in both live Webflow Blogs items (republished November 20, 2026).
